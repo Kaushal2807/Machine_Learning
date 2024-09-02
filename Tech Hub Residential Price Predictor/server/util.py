@@ -1,6 +1,8 @@
 import json
 import pickle
 import numpy as np
+import warnings
+warnings.filterwarnings('ignore')
 
 __location = None
 __data_columns = None

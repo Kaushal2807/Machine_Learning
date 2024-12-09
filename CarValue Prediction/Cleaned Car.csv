@@ -1,4 +1,4 @@
-,name,company,year,Price,kms_driven,fuel_type
+Row id,name,company,year,Price,kms_driven,fuel_type
 0,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol
 1,Mahindra Jeep CL550,Mahindra,2006,425000,40,Diesel
 2,Hyundai Grand i10,Hyundai,2014,325000,28000,Petrol
